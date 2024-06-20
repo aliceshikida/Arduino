@@ -1,5 +1,4 @@
-# Arduino
-#Projeto arduino
+# Projeto Arduino
 
 link do tinkercad: https://www.tinkercad.com/things/frkADY4wr2Z-trabalho-temperatura/editel?sharecode=nSsMeMWGrt8ZAhGvDpn_sihWEwPRAzqr6M9yZsc4aRY
 
